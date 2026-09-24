@@ -34,14 +34,16 @@ experimentos y cosas que voy aprendiendo durante el proceso.
 
 [![UNITY](https://img.shields.io/badge/UNITY-18141F?style=for-the-badge&logo=unity&logoColor=FFFFFF)](https://unity.com/)
 [![BLENDER](https://img.shields.io/badge/BLENDER-C20000?style=for-the-badge&logo=blender&logoColor=FFFFFF)](https://www.blender.org/)
-[![PHOTOSHOP](https://img.shields.io/badge/PHOTOSHOP-18141F?style=for-the-badge&logo=adobephotoshop&logoColor=FFFFFF)](https://www.adobe.com/products/photoshop.html)
+[![FIGMA](https://img.shields.io/badge/FIGMA-18141F?style=for-the-badge&logo=figma&logoColor=FFFFFF)](https://www.figma.com/)
 [![ILLUSTRATOR](https://img.shields.io/badge/ILLUSTRATOR-C20000?style=for-the-badge&logo=adobeillustrator&logoColor=FFFFFF)](https://www.adobe.com/products/illustrator.html)
+[![PHOTOSHOP](https://img.shields.io/badge/PHOTOSHOP-18141F?style=for-the-badge&logo=adobephotoshop&logoColor=FFFFFF)](https://www.adobe.com/products/photoshop.html)
+
 
 </div>
 
 ---
 
-## MIS PROYECTOS
+## ALGUNOS DE MIS PROYECTOS
 
 <div align="center">
 
@@ -51,13 +53,13 @@ experimentos y cosas que voy aprendiendo durante el proceso.
 
 </div>
 
-
 ---
+
+## MIS PERFILES 
 
 <div align="center">
 
-### DESARROLLO VIDEOJUEGOS Y COMPARTO EL PROCESO
-
-[![VER MIS JUEGOS](https://img.shields.io/badge/VER%20MIS%20JUEGOS-C20000?style=for-the-badge)](https://thelara270.itch.io)
+[![ITCH.IO](https://img.shields.io/badge/ITCH.IO-C20000?style=for-the-badge&logo=itch.io&logoColor=FFFFFF)](https://thelara270.itch.io)
+[![SKETCHFAB](https://img.shields.io/badge/SKETCHFAB-18141F?style=for-the-badge&logo=sketchfab&logoColor=FFFFFF)](https://sketchfab.com/thelara270)
 
 </div>
