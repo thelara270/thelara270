@@ -1,104 +1,106 @@
 <div align="center">
 
-<img src="https://TU-IMAGEN-BANNER.png" width="100%" />
+<img src="./images/banner.png" width="100%" />
 
 <br>
 
-# ¡Hola! Soy Lara 👋
+# LARA
 
-### 🎮 Desarrolladora de videojuegos
+### DESARROLLADORA DE VIDEOJUEGOS
 
-Desarrollo videojuegos y me gusta compartir el proceso,
-las cosas que aprendo y los proyectos que voy creando.
+Desarrollo videojuegos y me gusta compartir lo que hago,
+desde pequeños experimentos hasta proyectos completos.
 
 <br>
 
-<a href="TU_ITCH_IO">
-  <img src="https://img.shields.io/badge/🎮%20MI%20ITCH.IO-C20000?style=for-the-badge&logo=itch.io&logoColor=white" />
+<a href="https://thelara270.itch.io">
+  <img src="https://img.shields.io/badge/ITCH.IO-C20000?style=for-the-badge&logo=itch.io&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-## 🎮 Sobre mí
+## SOBRE MÍ
 
-Soy desarrolladora de videojuegos apasionada por crear experiencias,
-experimentar con ideas y aprender cosas nuevas durante el proceso.
+Soy desarrolladora de videojuegos y me gusta crear,
+experimentar y compartir los proyectos que voy haciendo.
 
-Me gusta compartir lo que hago, desde pequeños experimentos hasta
-proyectos completos, mostrando tanto el resultado como parte del
-proceso de desarrollo.
+Trabajo principalmente con Unity y también disfruto explorar
+diferentes áreas del desarrollo de videojuegos, como el arte,
+el diseño, el modelado 3D y la programación.
 
-Actualmente trabajo principalmente con **Unity**, mientras exploro
-también diferentes áreas de arte y desarrollo.
+En este perfil puedes encontrar algunos de mis proyectos,
+experimentos y cosas que voy aprendiendo durante el proceso.
 
 ---
 
-## 🛠️ Herramientas que utilizo
+## HERRAMIENTAS
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=unity,blender,ps,ai" />
 
-</div>
+<br><br>
 
-<br>
-
-<div align="center">
-
-`UNITY` • `BLENDER` • `PHOTOSHOP` • `ILLUSTRATOR`
+UNITY
+&nbsp;&nbsp;&nbsp;
+BLENDER
+&nbsp;&nbsp;&nbsp;
+PHOTOSHOP
+&nbsp;&nbsp;&nbsp;
+ILLUSTRATOR
 
 </div>
 
 ---
 
-## 🚀 Algunos de mis proyectos
+## MIS MEJORES PROYECTOS
 
 <table>
 <tr>
 
-<td width="50%">
+<td width="50%" align="center">
 
-### 🎮 Proyecto 01
+<img src="./images/its-different-today.png" width="100%">
 
-Descripción corta de tu juego.
+### It's Different Today
 
-[🔴 Ver proyecto](TU_LINK)
+Proyecto desarrollado en Unity.
 
-</td>
+<br>
 
-<td width="50%">
+<a href="https://github.com/thelara270/Its-Different-Today">
+VER EN GITHUB
+</a>
 
-### 🎮 Proyecto 02
+<br>
 
-Descripción corta de tu juego.
-
-[🔴 Ver proyecto](TU_LINK)
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 🎮 Proyecto 03
-
-Descripción corta de tu juego.
-
-[🔴 Ver proyecto](TU_LINK)
+<a href="https://thelara270.itch.io">
+VER EN ITCH.IO
+</a>
 
 </td>
 
-<td width="50%">
+<td width="50%" align="center">
 
-### 🎮 Proyecto 04
+<img src="./images/labervirus.png" width="100%">
 
-Descripción corta de tu juego.
+### LaberVirus
 
-[🔴 Ver proyecto](TU_LINK)
+Proyecto de videojuego desarrollado en Unity.
+
+<br>
+
+<a href="https://github.com/thelara270/LaberVirus">
+VER EN GITHUB
+</a>
+
+<br>
+
+<a href="https://thelara270.itch.io">
+VER EN ITCH.IO
+</a>
 
 </td>
 
@@ -107,26 +109,27 @@ Descripción corta de tu juego.
 
 ---
 
-## 📊 GitHub
+## GITHUB
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_border=true&title_color=C20000&icon_color=C20000&text_color=ffffff&bg_color=18141F" />
+<img src="https://github-readme-stats.vercel.app/api?username=thelara270&show_icons=true&hide_border=true&title_color=C20000&icon_color=C20000&text_color=FFFFFF&bg_color=18141F" />
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&hide_border=true&ring=C20000&fire=C20000&currStreakLabel=C20000&background=18141F&sideLabels=ffffff&dates=888888" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=thelara270&hide_border=true&ring=C20000&fire=C20000&currStreakLabel=C20000&background=18141F&sideLabels=FFFFFF&dates=888888" />
 
 </div>
 
 ---
 
-## 🎨 Lo que me gusta hacer
+## LO QUE HAGO
 
 ```text
-🎮 Game Development
-🧩 Gameplay Programming
-🎨 Game Art
-🖌️ UI Design
-🧱 3D Modeling
-💡 Experimentar con nuevas ideas
+Game Development
+Gameplay Programming
+Game Design
+3D Modeling
+Game Art
+UI Design
+Prototyping
