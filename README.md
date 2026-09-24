@@ -107,19 +107,6 @@ VER EN ITCH.IO
 </tr>
 </table>
 
----
-
-## GITHUB
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=thelara270&show_icons=true&hide_border=true&title_color=C20000&icon_color=C20000&text_color=FFFFFF&bg_color=18141F" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=thelara270&hide_border=true&ring=C20000&fire=C20000&currStreakLabel=C20000&background=18141F&sideLabels=FFFFFF&dates=888888" />
-
-</div>
 
 ---
 
