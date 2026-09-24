@@ -1,21 +1,14 @@
 <div align="center">
 
-<img src="./images/banner.png" width="100%" />
-
-<br>
-
 # LARA
 
 ### DESARROLLADORA DE VIDEOJUEGOS
 
-Desarrollo videojuegos y me gusta compartir lo que hago,
-desde pequeños experimentos hasta proyectos completos.
+Desarrollo videojuegos y me gusta compartir lo que hago.
 
 <br>
 
-<a href="https://thelara270.itch.io">
-  <img src="https://img.shields.io/badge/ITCH.IO-C20000?style=for-the-badge&logo=itch.io&logoColor=white" />
-</a>
+[![ITCH.IO](https://img.shields.io/badge/ITCH.IO-C20000?style=for-the-badge&logo=itch.io&logoColor=FFFFFF)](https://thelara270.itch.io)
 
 </div>
 
@@ -39,84 +32,32 @@ experimentos y cosas que voy aprendiendo durante el proceso.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=unity,blender,ps,ai" />
-
-<br><br>
-
-UNITY
-&nbsp;&nbsp;&nbsp;
-BLENDER
-&nbsp;&nbsp;&nbsp;
-PHOTOSHOP
-&nbsp;&nbsp;&nbsp;
-ILLUSTRATOR
+[![UNITY](https://img.shields.io/badge/UNITY-18141F?style=for-the-badge&logo=unity&logoColor=FFFFFF)](https://unity.com/)
+[![BLENDER](https://img.shields.io/badge/BLENDER-C20000?style=for-the-badge&logo=blender&logoColor=FFFFFF)](https://www.blender.org/)
+[![PHOTOSHOP](https://img.shields.io/badge/PHOTOSHOP-18141F?style=for-the-badge&logo=adobephotoshop&logoColor=FFFFFF)](https://www.adobe.com/products/photoshop.html)
+[![ILLUSTRATOR](https://img.shields.io/badge/ILLUSTRATOR-C20000?style=for-the-badge&logo=adobeillustrator&logoColor=FFFFFF)](https://www.adobe.com/products/illustrator.html)
 
 </div>
 
 ---
 
-## MIS MEJORES PROYECTOS
+## MIS PROYECTOS
 
-<table>
-<tr>
+<div align="center">
 
-<td width="50%" align="center">
+[![ITS DIFFERENT TODAY](https://img.shields.io/badge/ITS%20DIFFERENT%20TODAY-C20000?style=for-the-badge)](https://github.com/thelara270/Its-Different-Today)
 
-<img src="./images/its-different-today.png" width="100%">
+[![LABERVIRUS](https://img.shields.io/badge/LABERVIRUS-18141F?style=for-the-badge)](https://github.com/thelara270/LaberVirus)
 
-### It's Different Today
-
-Proyecto desarrollado en Unity.
-
-<br>
-
-<a href="https://github.com/thelara270/Its-Different-Today">
-VER EN GITHUB
-</a>
-
-<br>
-
-<a href="https://thelara270.itch.io">
-VER EN ITCH.IO
-</a>
-
-</td>
-
-<td width="50%" align="center">
-
-<img src="./images/labervirus.png" width="100%">
-
-### LaberVirus
-
-Proyecto de videojuego desarrollado en Unity.
-
-<br>
-
-<a href="https://github.com/thelara270/LaberVirus">
-VER EN GITHUB
-</a>
-
-<br>
-
-<a href="https://thelara270.itch.io">
-VER EN ITCH.IO
-</a>
-
-</td>
-
-</tr>
-</table>
+</div>
 
 
 ---
 
-## LO QUE HAGO
+<div align="center">
 
-```text
-Game Development
-Gameplay Programming
-Game Design
-3D Modeling
-Game Art
-UI Design
-Prototyping
+### DESARROLLO VIDEOJUEGOS Y COMPARTO EL PROCESO
+
+[![VER MIS JUEGOS](https://img.shields.io/badge/VER%20MIS%20JUEGOS-C20000?style=for-the-badge)](https://thelara270.itch.io)
+
+</div>
