@@ -1,3 +1,4 @@
+```markdown
 <div align="center">
 
 # LARA
@@ -36,8 +37,7 @@ experimentos y cosas que voy aprendiendo durante el proceso.
 [![BLENDER](https://img.shields.io/badge/BLENDER-C20000?style=for-the-badge&logo=blender&logoColor=FFFFFF)](https://www.blender.org/)
 [![FIGMA](https://img.shields.io/badge/FIGMA-18141F?style=for-the-badge&logo=figma&logoColor=FFFFFF)](https://www.figma.com/)
 [![ILLUSTRATOR](https://img.shields.io/badge/ILLUSTRATOR-C20000?style=for-the-badge&logo=adobeillustrator&logoColor=FFFFFF)](https://www.adobe.com/products/illustrator.html)
-[![PHOTOSHOP](https://img.shields.io/badge/PHOTOSHOP-18141F?style=for-the-badge&logo=adobephotoshop&logoColor=FFFFFF)](https://www.adobe.com/products/photoshop.html)
-
+[![KRITA](https://img.shields.io/badge/KRITA-18141F?style=for-the-badge&logo=krita&logoColor=FFFFFF)](https://krita.org/)
 
 </div>
 
@@ -55,7 +55,7 @@ experimentos y cosas que voy aprendiendo durante el proceso.
 
 ---
 
-## MIS PERFILES 
+## MIS PERFILES
 
 <div align="center">
 
@@ -63,3 +63,4 @@ experimentos y cosas que voy aprendiendo durante el proceso.
 [![SKETCHFAB](https://img.shields.io/badge/SKETCHFAB-18141F?style=for-the-badge&logo=sketchfab&logoColor=FFFFFF)](https://sketchfab.com/thelara270)
 
 </div>
+```
