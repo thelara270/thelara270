@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 # LARA
@@ -33,10 +32,10 @@ experimentos y cosas que voy aprendiendo durante el proceso.
 
 <div align="center">
 
-[![UNITY](https://img.shields.io/badge/UNITY-18141F?style=for-the-badge&logo=unity&logoColor=FFFFFF)](https://unity.com/)
-[![BLENDER](https://img.shields.io/badge/BLENDER-C20000?style=for-the-badge&logo=blender&logoColor=FFFFFF)](https://www.blender.org/)
-[![FIGMA](https://img.shields.io/badge/FIGMA-18141F?style=for-the-badge&logo=figma&logoColor=FFFFFF)](https://www.figma.com/)
-[![ILLUSTRATOR](https://img.shields.io/badge/ILLUSTRATOR-C20000?style=for-the-badge&logo=adobeillustrator&logoColor=FFFFFF)](https://www.adobe.com/products/illustrator.html)
+[![UNITY](https://img.shields.io/badge/UNITY-18141F?style=for-the-badge&logo=unity&logoColor=FFFFFF)](https://unity.com/) 
+[![BLENDER](https://img.shields.io/badge/BLENDER-C20000?style=for-the-badge&logo=blender&logoColor=FFFFFF)](https://www.blender.org/) 
+[![FIGMA](https://img.shields.io/badge/FIGMA-18141F?style=for-the-badge&logo=figma&logoColor=FFFFFF)](https://www.figma.com/) 
+[![ILLUSTRATOR](https://img.shields.io/badge/ILLUSTRATOR-C20000?style=for-the-badge&logo=adobeillustrator&logoColor=FFFFFF)](https://www.adobe.com/products/illustrator.html) 
 [![KRITA](https://img.shields.io/badge/KRITA-18141F?style=for-the-badge&logo=krita&logoColor=FFFFFF)](https://krita.org/)
 
 </div>
@@ -55,12 +54,12 @@ experimentos y cosas que voy aprendiendo durante el proceso.
 
 ---
 
-## MIS PERFILES
+## MIS PERFILES 
 
 <div align="center">
 
 [![ITCH.IO](https://img.shields.io/badge/ITCH.IO-C20000?style=for-the-badge&logo=itch.io&logoColor=FFFFFF)](https://thelara270.itch.io)
-[![SKETCHFAB](https://img.shields.io/badge/SKETCHFAB-18141F?style=for-the-badge&logo=sketchfab&logoColor=FFFFFF)](https://sketchfab.com/thelara270)
-
-</div>
-```
+[![SKETCHFAB](https://img.shields.io/badge/SKETCHFAB-18141F?style=for-the-badge&logo=sketchfab&logoColor=FFFFFF)](https://sketchfab.com/thelara270) 
+ 
+</div> 
+ 
